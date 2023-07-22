@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "role": "<用户>",
+      "attachment": "",
+      "message": "支付宝充值怎么还不到账"
+    },
+    {
+      "role": "<客服>",
+      "attachment": "",
+      "message": "老板，请提供【您的游戏账号，付款人姓名】、【带有详细时间（时、分、秒）支付成功到账的截图】，以便为您核实哦~"
+    },
+    {
+      "role": "<用户>",
+      "attachment": "https://www.livehelp100-file.com/fileservice/v1/files/CvHfdDJl4iYzckOBGDbziUS5UKWKaP11IGmipf2va4jxyzMIth1dCV1cRuoQv
+bmYsCskSiY7uOaRKetkZrOTxQyZ4Q4214ffBtwDtxkyGD72ZOeoFYcTB7XIVyrB74rLAdEAfqKTNMAwmmE7-laGgEzw9y99L4I3r2OuFP0UEsZw",
+      "message": ""
+    },
+  ],
+]

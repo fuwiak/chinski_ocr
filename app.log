@@ -1,0 +1,10 @@
+root - INFO - Loaded data from file.
+root - INFO - Got attachment URL.
+root - INFO - Downloaded image.
+easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+easyocr.easyocr - WARNING - Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+easyocr.easyocr - INFO - Download complete
+easyocr.easyocr - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+easyocr.easyocr - INFO - Download complete.
+root - INFO - Transformation successful.
+root - INFO - Done!
